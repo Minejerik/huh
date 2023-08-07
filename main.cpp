@@ -3,7 +3,7 @@
 using namespace std;
 
 string p = "p";
-string m = "r";
+string m = "z";
 
 string world[15][15] = {
     {m, m, m, m, m, m, m, m, m, m, m, m, m, m, m},
